@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <polygon cx="188.5" cy="130.5" edge="63.808742" fill="#091030" id="svg_1" orient="x" points="63.403167724609375,34.64313507080078 42.51029968261719,63.592254638671875 8.704940795898438,52.53468322753906 8.704940795898438,16.751625061035156 42.51029968261719,5.694053649902344 63.403167724609375,34.64313507080078 " shape="regularPoly" sides="5" stroke="#17176b" stroke-width="5" strokeWidth="5" strokecolor="#000000" transform="rotate(18.5927, 36.054, 34.6432)"/>
+  <text fill="#fcf7f7" font-family="serif" font-size="24" id="svg_3" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" text-anchor="middle" transform="matrix(0.661263, 0, 0, 0.914235, 52.0864, 9.0447)" x="-30.355913" xml:space="preserve" y="32.603089">RV</text>
+ </g>
+</svg>
